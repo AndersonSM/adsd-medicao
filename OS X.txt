@@ -1,0 +1,101 @@
+MPG (640x360) -> AVI (640x360)
+
+bitrate: 899 kb/s
+
+Time: 17,391 s
+Average CPU %: 0.9526826338688844
+Memory used: 196.19140625 MB
+
+Time: 17,171 s
+Average CPU %: 0.9372961646687894
+Memory used: 153.875 MB
+
+Time: 17,193 s
+Average CPU %: 0.9438493960699046
+Memory used: 175.6875 MB
+
+Time: 17,364 s
+Average CPU %: 0.9410777798437486
+Memory used: 157.78515625 MB
+
+Time: 17,206 s
+Average CPU %: 0.9353816959460104
+Memory used: 164.80078125 MB
+
+———————————————————————————————————
+
+MPG (640x360) -> MOV (640x360)
+
+bitrate: 893 kb/s
+
+Time: 16,509 s
+Average CPU %: 0.9526511854081507
+Memory used: 215.87890625 MB
+
+Time: 15,876 s
+Average CPU %: 0.9378791330954194
+Memory used: 177.7890625 MB
+
+Time: 16,120 s
+Average CPU %: 0.9527436680755286
+Memory used: 193.46484375 MB
+
+Time: 16,133 s
+Average CPU %: 0.9497086199361091
+Memory used: 188.078125 MB
+
+Time: 15,940 s
+Average CPU %: 0.9420487885465294
+Memory used: 173.44140625 MB
+
+——————————————————————————————————
+
+MP4 (1280x720) -> AVI (1280x720)
+
+bitrate: 1317 kb/s
+
+Time: 53,993 s
+Average CPU %: 0.9359419613494357
+Memory used: 354.02734375 MB
+
+Time: 53,192 s
+Average CPU %: 0.9376027968832938
+Memory used: 334.34765625 MB
+
+Time: 53,506 s
+Average CPU %: 0.9462258686323479
+Memory used: 369.46484375 MB
+
+Time: 53,164 s
+Average CPU %: 0.9397127333201922
+Memory used: 344.27734375 MB
+
+Time: 53,238 s
+Average CPU %: 0.9361283789718693
+Memory used: 338.16796875 MB
+
+——————————————————————————————————
+
+MP4 (1280x720) -> MOV (1280x720)
+
+bitrate: 1312 kb/s
+
+Time: 51,891 s
+Average CPU %: 0.9207771620060804
+Memory used: 360.78125 MB
+
+Time: 52,047 s
+Average CPU %: 0.9364955969629981
+Memory used: 342.2734375 MB
+
+Time: 51,803 s
+Average CPU %: 0.9580075424967277
+Memory used: 342.49609375 MB
+
+Time: 52,183 s
+Average CPU %: 0.9340250763489195
+Memory used: 355.67578125 MB
+
+Time: 51,949 s
+Average CPU %: 0.9181918594135288
+Memory used: 382.7890625 MB
